@@ -1,0 +1,24 @@
+Creational Design Patterns:
+    - Builder
+    - Factory Method
+    - Abstract Factory
+    - Object Pool
+    - Singleton
+    - Prototype
+Structural Design Patterns:
+    - Adapter
+    - Bridge
+    - Façade
+    - Decorator
+    - Composite
+    - Flyweight
+    - Proxy
+Behavioral Design Patterns:
+    - Command
+    - Iterator
+    Chain of Responsibility
+    - Observer
+    State
+    Strategy
+    Mediator
+    Interpreter
